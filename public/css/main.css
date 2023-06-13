@@ -106,14 +106,3 @@ main {
   background-color: #00695c;
   color: white;
 }
-
-.cart a{
-  color: white;
-  font-size: 16px;
-}
-
-.cart a:hover,
-.cart a:active,
-.cart a.active {
-  color: #ffeb3b;
-}
